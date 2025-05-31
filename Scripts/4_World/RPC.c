@@ -1,0 +1,2 @@
+const int RPC_PLAY_APPROACH_SOUND   = 91123;
+const int RPC_PLAY_MAIN_SOUND       = 91124;
